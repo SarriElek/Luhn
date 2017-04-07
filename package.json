@@ -1,0 +1,17 @@
+{
+  "name": "luhn",
+  "version": "1.0.0",
+  "description": "luhn algorithm",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "author": "edurne",
+  "license": "ISC"
+}
